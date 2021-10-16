@@ -8,7 +8,7 @@ My name is Lyndon, i live in Natal/RN and i'm taking a bachelor's degree in comp
 - **Age:** 24 years
 -  **Course:** Web developer - IMD/UFRN
 
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/lyndon-jonhson-75210a201/)
+<a href="https://www.linkedin.com/in/lyndon-jonhson-75210a201/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 
 ## What i know 
 
