@@ -14,16 +14,13 @@ My name is Lyndon, i live in Natal/RN and i'm taking a bachelor's degree in comp
 
 - HTML5
 - CSS3
-- Bootstrap
 - Javascript
+- NodeJS
+- ExpressJS
 - MySQL
+- API REST
 - Basic in Java
 - Basic in C
 - Basic in C++
 
 ![Parth's Github Status](https://github-readme-stats.vercel.app/api/top-langs/?username=lyndonjonhson&layout=compact&text_color=daf7dc&bg_color=151515)
-
-## Learning now
-
-- NodeJS
-- ExpressJS
