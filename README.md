@@ -19,7 +19,7 @@ My name is Lyndon, i live in Natal/RN and i'm taking a bachelor's degree in comp
 - ExpressJS
 - MySQL
 - API REST
-- Basic in Java
+- Java
 - Basic in C
 - Basic in C++
 
