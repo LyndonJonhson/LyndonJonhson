@@ -14,6 +14,7 @@ My name is Lyndon, i live in Natal/RN and i'm taking a bachelor's degree in comp
 
 - HTML5 | CSS3 | Javascript
 - Java | JSF | Hibernate | Spring | Spring Data JPA | Spring Boot
+- Eclipse | Eclipse STS | Intellij
 - NodeJS | ExpressJS
 - MySQL | PostgreSQL | DBeaver | PgAdmin
 - API REST
