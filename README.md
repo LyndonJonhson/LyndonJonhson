@@ -19,5 +19,3 @@ My name is Lyndon, i live in Natal/RN and i'm taking a bachelor's degree in comp
 - MySQL | PostgreSQL | DBeaver | PgAdmin
 - API REST
 - Basic: Python | C | C++
-
-![Parth's Github Status](https://github-readme-stats.vercel.app/api/top-langs/?username=LyndonJonhson&layout=compact&text_color=daf7dc&bg_color=151515)
